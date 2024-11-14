@@ -47,13 +47,13 @@ root/
   - Tombol "Baca Lebih Lanjut"
 
 ### 2. About
-![alt text](<Cuplikan layar 2024-11-14 013627.png>)
+![alt text](<gambar/Cuplikan layar 2024-11-14 013627.png>)
 - Penjelasan tentang website
 - Informasi tentang AI dan penggunaannya
 - Teks dalam Bahasa Indonesia
 
 ### 3. DataTables
-![alt text](<Cuplikan layar 2024-11-14 015300 - Copy.png>)
+![alt text](<gambar/Cuplikan layar 2024-11-14 015300 - Copy.png>)
 - Tabel interaktif berisi informasi AI
 - Fitur:
   - Sorting
@@ -62,7 +62,7 @@ root/
 - Kolom: No, Nama AI, Deskripsi, Tahun Rilis
 
 ### 4. Form
-![alt text](<Cuplikan layar 2024-11-14 100329.png>)
+![alt text](<gambar/Cuplikan layar 2024-11-14 100329.png>)
 - Input fields:
   - Nama (required)
   - Email (required)
@@ -71,7 +71,7 @@ root/
 - Desain responsif
 
 ### 5. Contact
-![alt text](<Cuplikan layar 2024-11-14 013740.png>)
+![alt text](<gambar/Cuplikan layar 2024-11-14 013740.png>)
 - Informasi kontak lengkap
 - Social media links
 - Lokasi perusahaan
