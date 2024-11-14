@@ -14,7 +14,7 @@
 
 
 ### 1. Halaman Utama:
-![alt text](Gambar/home.png)
+![alt text](gambar/home.png)
 ```
 - Di bagian atas halaman terdapat header yang menyambut pengunjung dengan tulisan “Selamat Datang!” serta mengajak mereka untuk mengeksplorasi seri game Grand Theft Auto (GTA) dan mengetahui plot singkat dari setiap game di situs ini.
 - Di bawah tulisan tersebut, terdapat tombol besar berwarna kuning bertuliskan "Cari Sekarang" yang berfungsi sebagai ajakan bagi pengguna untuk mulai menjelajahi konten di situs.
