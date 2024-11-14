@@ -38,7 +38,7 @@ root/
 ## 🚀 Fitur Utama
 
 ### 1. Homepage
-![alt text](<Cuplikan layar 2024-11-14 013543.png>)
+![alt text](<gambar/Cuplikan layar 2024-11-14 013543.png>)
 - **Header**: Tampilan menarik dengan background gradient
 - **Navbar**: Menu navigasi responsif
 - **Konten**: 
